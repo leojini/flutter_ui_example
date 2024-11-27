@@ -5,6 +5,7 @@ import 'package:ui_example/exam_flexible.dart';
 import 'package:ui_example/exam_expanded.dart';
 import 'package:ui_example/exam_test.dart';
 import 'package:ui_example/exam_test2.dart';
+import 'package:ui_example/exam_stack.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,9 +20,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         home: Scaffold(
             body:
-              // examTest2()
+              // examStack()
+              examTest2()
               // examTest()
-              examExpanded()
+              // examExpanded()
               // examFlexible()
               // examColumn()
               // examRow()
