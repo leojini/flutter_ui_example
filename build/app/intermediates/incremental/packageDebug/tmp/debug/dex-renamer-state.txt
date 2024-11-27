@@ -1,0 +1,4 @@
+#Wed Nov 27 17:52:18 KST 2024
+base.0=/Users/leojin/Mine/Project/Flutter2/flutter_ui_example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
